@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "POST TITLE"
-date: YYYY-MM-DD hh:mm:ss -0000
+layout: post
+title: "this is a test post"
+date: 2020-09-01 13:22:33 +0080
 categories: CATEGORY-1 CATEGORY-2
 ---
 
