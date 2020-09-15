@@ -10,8 +10,9 @@ I'm still working on building my static web site using [Jekyll](https://jekyllrb
 YYYYMMDD-TITLE.MDformat as [per Jekyll required](https://jekyllrb.com/docs/posts/)
 
 ## 1Writer shortcut
+
 lkdsdflakf
-kdfljfdkm lklllm okl,l;.p klew
+kdfljfdkm lklllm okl
 
 
 kerwkle
