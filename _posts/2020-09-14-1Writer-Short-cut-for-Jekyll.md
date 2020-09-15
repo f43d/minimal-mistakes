@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "1 Writer shortcut for Jekyll"
-date: 2020-09-14
+date: 2020-09-14 22:00:00 +0800
 ---
 
 ## My workflow
