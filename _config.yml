@@ -268,7 +268,7 @@ compress_html:
 
 
 # Defaults
-defaults:
+# defaults:
   _posts
   - scope:
       path: ""
