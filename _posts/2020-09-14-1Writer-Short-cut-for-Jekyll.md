@@ -1,9 +1,19 @@
 ---
 layout: post
 title:  "1 Writer shortcut for Jekyll"
+date: 20202-09-14
 ---
 
+## My workflow
 
 I'm still working on building my static web site using [Jekyll](https://jekyllrb.com/) primary on iOS device. I come across a great article about [Automating Zettelkasten Note Creation on iOS](https://mentalpivot.com/automating-zettelkasten-note-creation-on-ios/) which I may use the [shortcut](https://www.icloud.com/shortcuts/94a631e0b5884c958713745e504ab9ee) and [Apple's text replacement](https://support.apple.com.hk/guide/iphone/iph6d01d862/ios) to create pages which follow the
- YYYYMMDD-TITLE.MD
- format as [per Jekyll required](https://jekyllrb.com/docs/posts/)
+YYYYMMDD-TITLE.MDformat as [per Jekyll required](https://jekyllrb.com/docs/posts/)
+
+## 1Writer shortcut
+lkdsdflakf
+kdfljfdkm lklllm okl,l;.p klew
+
+
+kerwkle
+
+## Apppple test replacement
